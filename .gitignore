@@ -1,0 +1,15 @@
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar cache do pytest
+.pytest_cache/
+
+# (opcional) Ignorar ambientes virtuais comuns
+venv/
+.env/
+*.env
+
+# (opcional) Ignorar arquivos de logs e temporários
+*.log
+*.tmp
